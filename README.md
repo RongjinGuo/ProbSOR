@@ -1,6 +1,19 @@
-# ProbSOR: Probabilistic Salient Object Ranking
+<div align="center">
+  <h1>[ICML'26] ProbSOR: Probabilistic Salient Object Ranking</h1>
+  <br />
+  <span><strong><i>If you are interested in our work, please star this project.</i></strong></span>
 
-This repository contains the codebase for **Probabilistic Salient Object Ranking (ProbSOR)**, a framework for modeling human attention shifts as a probabilistic distribution over multiple plausible salient-object orders.
+
+  <h4>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=Paper&message=ProbSOR&color=red&logo=arxiv" alt="Paper"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=Dataset&message=Coming%20Soon&color=blue" alt="Dataset"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=License&message=Coming%20Soon&color=green" alt="License"></a>
+    <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=ProbSOR" alt="Visitors"></a>
+  </h4>
+
+</div>
+
+This repository will host **Probabilistic Salient Object Ranking (ProbSOR)**, a framework for modeling human attention shifts as a probabilistic distribution over multiple plausible salient-object orders.
 
 > Paper: *Probabilistic Salient Object Ranking*  
 > Authors: Rongjin Guo, Huankang Guan, Rynson W.H. Lau  
