@@ -1,6 +1,5 @@
 <div align="center">
   <h1>[ICML'26] ProbSOR: Probabilistic Salient Object Ranking</h1>
-  <br />
 
 
   <h4>
