@@ -1,7 +1,6 @@
 <div align="center">
   <h1>[ICML'26] ProbSOR: Probabilistic Salient Object Ranking</h1>
 
-
   <h4>
     <a href="#"><img src="https://img.shields.io/static/v1?label=Paper&message=ProbSOR&color=red&logo=arxiv" alt="Paper"></a>
     <a href="#"><img src="https://img.shields.io/static/v1?label=Dataset&message=Coming%20Soon&color=blue" alt="Dataset"></a>
